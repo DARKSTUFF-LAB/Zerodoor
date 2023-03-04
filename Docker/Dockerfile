@@ -1,6 +1,5 @@
 # ZeroDoor
 # Cross-Platform Backdoors Generator
-# https://github.com/Souhardya/Zerodoor
 # docker build -t zeroDoor .
 FROM ubuntu:16.04
 
@@ -9,7 +8,7 @@ RUN \
   apt install -y python-pip git-core && \
   cd /opt
 
-RUN git clone https://github.com/Souhardya/Zerodoor
+RUN git clone https://github.com/YAHYA950/Zerodoor.git
 
 COPY start.sh /start.sh
 
