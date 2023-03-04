@@ -13,7 +13,7 @@ Happy Hacking :D
     <tr>
       <td>
         <ul>
-          <img width="780" alt="image" src="./image/Screenshot.png">
+          <img width="780" alt="image" src="./Screenshot/Screenshot.png">
         </ul>
       </td>
    </tr>
