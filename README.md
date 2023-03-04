@@ -45,8 +45,8 @@ JS support
 
 # Author 
 
-Souhardya Sardar is a lazy guy who keeps learning and gets trolled by experts 
-Github :- github.com/Souhardya 
+Yahya is a lazy guy who keeps learning and gets trolled by experts 
+Github :- github.com/YAHYA950 
 
 # Donate and contact :3 
 
