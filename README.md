@@ -57,3 +57,9 @@ soon as possible . Maybe later cuz I am hell lazy
 # Python2 Support only :) 
 
 You can help me implement a python3 version too 
+
+<h2 align="center">
+
+  **[`^        Back to TOP        ^`](#)**
+
+</h2>
