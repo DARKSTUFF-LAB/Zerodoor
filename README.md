@@ -50,8 +50,7 @@ Github :- github.com/YAHYA950
 
 # Donate and contact :3 
 
-If you want to do any python based project with me please kindly mail me at Souhardya@protonmail.com
-Or reach me on facebook :- facebook.com/SouhardyaSardar.py
+If you want to do any python based project with me please kindly mail me at yahya91932@gmail.com
 
 If you like my code :3 buy me a beer 
 
