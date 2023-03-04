@@ -6,7 +6,22 @@ Once you generate the payload somehow execute on the conecrened system eithe Win
 Once executed you will have the capability of executing remote commands on the compromised host :) 
 Happy Hacking :D
 
-![Alt text](http://oi68.tinypic.com/vo5s29.jpg "Screenshot")
+<table>
+  <tr>
+    <th>Screenshot</th>
+  </tr>
+    <tr>
+      <td>
+        <ul>
+          <img width="780" alt="image" src="https://user-images.githubusercontent.com/51442719/163238417-5ad83755-2c6c-42a2-bd2f-a27107f74740.png">
+        </ul>
+      </td>
+   </tr>
+       </ul>
+      </td>
+  </tr>
+    
+</table>
 
 # Usage 
 ```
