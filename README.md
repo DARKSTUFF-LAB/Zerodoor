@@ -13,7 +13,7 @@ Happy Hacking :D
     <tr>
       <td>
         <ul>
-          <img width="780" alt="image" src="https://user-images.githubusercontent.com/51442719/163238417-5ad83755-2c6c-42a2-bd2f-a27107f74740.png">
+          <img width="780" alt="image" src="Screenshot.png">
         </ul>
       </td>
    </tr>
